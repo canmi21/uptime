@@ -1,0 +1,124 @@
+{
+  "updated_at": "2025-03-27T09:53:39.699045919+08:00",
+  "days": [
+    {
+      "date": "2025-02-12",
+      "uptime": 7.06,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-13",
+      "uptime": 14.62,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-14",
+      "uptime": 6.41,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-15",
+      "uptime": 2.85,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-16",
+      "uptime": 11.93,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-17",
+      "uptime": 11.34,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-18",
+      "uptime": 22.22,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-19",
+      "uptime": 23.28,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-20",
+      "uptime": 23.29,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-21",
+      "uptime": 9.97,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-22",
+      "uptime": 6.95,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-23",
+      "uptime": 9.45,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-24",
+      "uptime": 5.76,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-25",
+      "uptime": 16.06,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-26",
+      "uptime": 19.6,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-27",
+      "uptime": 15.59,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-02-28",
+      "uptime": 10.18,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    }
+  ]
+}
