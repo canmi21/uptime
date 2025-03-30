@@ -11,7 +11,7 @@ def check_network():
         return False
 
 if check_network():
-    time.sleep(2)
+    time.sleep(60)
     os.system("git remote add origin git@github.com:canmi21/uptime.git")
     os.system("git branch -M main")
     os.system("git add .")
