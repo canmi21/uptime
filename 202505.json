@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-05-27T19:17:11.910354872+08:00",
+  "updated_at": "2025-05-28T13:03:18.472332154+08:00",
   "days": [
     {
       "date": "2025-05-01",
@@ -115,7 +115,14 @@
     },
     {
       "date": "2025-05-27",
-      "uptime": 0.0,
+      "uptime": 4.71,
+      "os": "arch",
+      "user": "canmi",
+      "hostname": "xyy"
+    },
+    {
+      "date": "2025-05-28",
+      "uptime": 10.82,
       "os": "arch",
       "user": "canmi",
       "hostname": "xyy"
